@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AthulyaMohanan
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning HTML and System Design
-- 💞️ I’m looking to collaborate on ...
+- 👀 coding for fun projects
+- 🌱 System Design
 - 📫 How to reach me - email
 
 <!---
